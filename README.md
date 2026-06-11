@@ -10,6 +10,7 @@ seasons, and promotional periods. The goal is to ensure better stock management,
 decision-making in a retail setting.
 
 🧮 Key Modules & Queries
+
 1. Core Inventory Metrics
       Inventory Health Dashboard:
       Analyzes product count, inventory value, turnover rate.
@@ -38,26 +39,30 @@ decision-making in a retail setting.
  
  
 🗃️ Data Sources
-    inventory_facts: Daily inventory levels, units sold, and demand forecast data.
-    products: Static product-level metadata (category, pricing, etc.).
-    stores: Store locations and regional classification.
-    environment_facts: External factors such as seasonality and promotions.
+
+ inventory_facts: Daily inventory levels, units sold, and demand forecast data.
+ products: Static product-level metadata (category, pricing, etc.).
+ stores: Store locations and regional classification.
+ environment_facts: External factors such as seasonality and promotions.
 
 
 🛠 Technologies Used
-    SQL (MySQL/PostgreSQL compatible)
-    Relational Database Concepts
-    Window Functions, CTEs, Aggregations
-    Business Intelligence & Retail Analytics
+
+ SQL (MySQL/PostgreSQL compatible)
+ Relational Database Concepts
+ Window Functions, CTEs, Aggregations
+ Business Intelligence & Retail Analytics
 
 📈 Utility
-    This project is useful for:
-    Retail analysts optimizing stock levels and preventing lost sales.
-    Supply chain professionals planning inventory replenishment.
-    Business intelligence teams deriving KPIs like turnover rate and promotion lift.
-    Data engineering teams validating data completeness across retail systems.
+
+ This project is useful for:
+ Retail analysts optimizing stock levels and preventing lost sales.
+ Supply chain professionals planning inventory replenishment.
+ Business intelligence teams deriving KPIs like turnover rate and promotion lift.
+ Data engineering teams validating data completeness across retail systems.
 
 📌 Future Enhancements
-      Integration with BI tools like Power BI or Tableau for dashboard visualization.
-      Support for predictive models using Python or R.
-      Automation scripts for daily/weekly execution and reporting.
+
+Integration with BI tools like Power BI or Tableau for dashboard visualization.
+Support for predictive models using Python or R.
+Automation scripts for daily/weekly execution and reporting.
