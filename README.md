@@ -1,8 +1,10 @@
 🛍️ Urban Retail Co. Inventory Optimization Solution
+
 A comprehensive SQL-based analytics project designed to optimize inventory management, enhance demand forecasting,and improve supply chain efficiency 
 for a retail organization. This solution transforms raw retail data into actionable insights via a set of advanced, business-focused queries.
 
 📊 Project Overview
+
 This project leverages SQL to analyze and optimize core inventory functions across multiple retail dimensions including product categories, regions, 
 seasons, and promotional periods. The goal is to ensure better stock management, improve forecasting accuracy, and support data-driven 
 decision-making in a retail setting.
